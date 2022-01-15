@@ -27,3 +27,11 @@
   margin-right: 20px;
   border: 1px solid black;
 }
+
+.container h2{
+  margin-top: 60px;
+}
+
+.card-text a {
+  color: rgb(155, 153, 153);
+}

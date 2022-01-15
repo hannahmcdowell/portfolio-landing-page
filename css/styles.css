@@ -28,10 +28,14 @@
   border: 1px solid black;
 }
 
-h2{
+h2 {
   margin-top: 60px;
 }
 
-.card-text a {
+.card a {
   color: rgb(155, 153, 153);
+}
+
+.card-footer {
+  text-align: center;
 }

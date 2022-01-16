@@ -4,6 +4,7 @@ body {
 
 .full-header {
   margin-top: 60px;
+  border: 1px outset rgb(248, 245, 245);
   padding: 1em;
 }
 

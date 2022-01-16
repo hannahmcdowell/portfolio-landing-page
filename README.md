@@ -32,7 +32,7 @@ I hope to add:
 * Browser icon
 
 ## Link
-Click [here]() to find the webpage on GitHub pages.
+Click [here](https://hannahmcdowell.github.io/portfolio-landing-page/) to find the webpage on GitHub pages.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)  

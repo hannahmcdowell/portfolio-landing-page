@@ -40,6 +40,10 @@ h2 {
   color: rgb(155, 153, 153);
 }
 
+.card .card-text {
+  margin-top: 1em;
+}
+
 .card-footer {
   text-align: center;
 }
